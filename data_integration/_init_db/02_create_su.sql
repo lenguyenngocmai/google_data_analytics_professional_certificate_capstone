@@ -1,0 +1,7 @@
+CREATE ROLE 1st_project_su
+    SUPERUSER
+    NOCREATEDB
+    CREATEROLE
+    NOINHERIT
+    LOGIN
+    PASSWORD '1st_project_su'
