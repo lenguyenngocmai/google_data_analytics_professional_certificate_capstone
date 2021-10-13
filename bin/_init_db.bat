@@ -9,7 +9,7 @@ psql ^
 
 psql^
     --username=1st_project_su^
-    --host=localhost
-    --dbname=1st_project_db
-    --echo-all
+    --host=localhost^
+    --dbname=1st_project_db^
+    --echo-all^
     --file=data_integration/_init_db/10.create_schema.sql
