@@ -1,4 +1,4 @@
-CREATE TABLE rfm_segment AS
+CREATE TABLE analytics.rfm_segment AS
 
 WITH  rfm_value AS (
 SELECT
