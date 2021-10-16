@@ -83,9 +83,11 @@ Therefore, the CMO needs to have a dashboard to show customer categories to deci
 - [ ] Work with marketing and monitor the result of a campaign to improve the analysis.
 
 **Postgres SQL code**
+
 Please review [my analysis step using SQL](https://github.com/lenguyenngocmai/1st_project_101221/tree/main/data_integration)
 
 **RFM dashboard**
+
 Please review [my visualization](https://public.tableau.com/authoring/RFMSegmentDashboard/Dashboard1#1)
 
 ## Conclusion 
