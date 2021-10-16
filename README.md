@@ -6,7 +6,7 @@ This project is my case study for my final course in [Google Data Analytics Prof
 
 **Disclaim** : The data is from open source, and the business request is just a common business problem that I see on the internet.
 
-## Content 
+### Content 
 
 1. Introduction
     * What is the scenario?
@@ -32,14 +32,14 @@ In the real world, a start-up or small company with a small budget for marketing
 
 ### Data and RFM analysis method 
 
-** Data**
+**Data**
 The Data I use in this project comes from  Kaggle. [E-Commerce Data](https://www.kaggle.com/carrie1/ecommerce-data)
 
 - Data: transnational data set 
 - Date Range: 01/12/2010 - 09/12/2011
 
 **RFM Analysis**
- * ~~Introduction~~ :
+[^1]:Introduction:
 
 - The RFM was developed in the 90s by retail organizations.
 
@@ -50,7 +50,7 @@ The Data I use in this project comes from  Kaggle. [E-Commerce Data](https://www
 
 Benefits: The RFM is based on the marketing axiom that **80% of your business comes from 20% of your customer**. It helps identify customers who are more likely to respond to a promo by segmenting them into various categories.
 
- * ~~FRM Workflow~~ :
+[^1]:FRM Workflow:
 
 |Step 1 | Step 2 | Step 3 | Step 4|
 | -----|-----|------|-----|
@@ -66,7 +66,7 @@ Therefore, the CMO needs to have a dashboard to show customer categories to deci
 - We have transaction data 
 - We know we can use the RFM model to determining the right group of customers.
 
-### Solution: 
+## Solution: 
 
 - From the situation, I determine the goal of the analysis: a dashboard to show customer segments.
 - Based on the goal, condition, and situation, I create a task list to close the gap from the business request to the result.
@@ -88,7 +88,7 @@ Please review [my analysis step using SQL](https://github.com/lenguyenngocmai/1s
 **RFM dashboard**
 Please review [my visualization](https://public.tableau.com/authoring/RFMSegmentDashboard/Dashboard1#1)
 
-### Conclusion 
+## Conclusion 
 
 From the RFM segment dashboard:
 - The company can start the reward campaign with champion and loyal customer which create more than 80% revenue for the company from 01.12.2010 to 09.12.2011.
@@ -97,13 +97,13 @@ From the RFM segment dashboard:
 ### Referrence 
 
 **For the RFM theory** : 
-- [RFM Analysis](https://blog.rsquaredacademy.com/customer-segmentation-using-rfm-analysis/)
-- [RFM Overview](https://how-many-steps-inc.webflow.io/rfm-segmentation-overview)
+- [Customer segmentation using RFM Analysis](https://blog.rsquaredacademy.com/customer-segmentation-using-rfm-analysis/)
+- [RFM segmentation Overview](https://how-many-steps-inc.webflow.io/rfm-segmentation-overview)
 
 **For SQL code** :
--[How to Create RFM Segments for Shopify](https://panoply.io/shopify-analytics-guide/how-to-create-rfm-segments-with-sql/)
+- [How to Create RFM Segments for Shopify](https://panoply.io/shopify-analytics-guide/how-to-create-rfm-segments-with-sql/)
 
-> *Thank you again for visiting my git. I welcome and glad to talk if you want to discuss about Data, Business Analyst with me*
+> *Thank you again for visiting my git. I welcome and glad to talk if you want to discuss about Data, Business Analyst with me.*
 
 
 
