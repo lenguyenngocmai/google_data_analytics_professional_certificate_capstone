@@ -32,17 +32,17 @@ In the real world, a start-up or small company with a small budget for marketing
 
 ### Data and RFM analysis method 
 
-**Data**
+#### Data
 The Data I use in this project comes from  Kaggle. [E-Commerce Data](https://www.kaggle.com/carrie1/ecommerce-data)
 
 - Data: transnational data set 
 - Date Range: 01/12/2010 - 09/12/2011
 
-**RFM Analysis**
-[^1]:Introduction:
+#### RFM Analysis
+
+**Introduction:**
 
 - The RFM was developed in the 90s by retail organizations.
-
 - The R-F-M analysis is a framework for determining segments for marketing and retention campaigns. It's a function of three factors:
 1. Recency: the number of days since the last transaction of the customer
 2. Frequency: the count of transactions
@@ -50,7 +50,7 @@ The Data I use in this project comes from  Kaggle. [E-Commerce Data](https://www
 
 Benefits: The RFM is based on the marketing axiom that **80% of your business comes from 20% of your customer**. It helps identify customers who are more likely to respond to a promo by segmenting them into various categories.
 
-[^1]:FRM Workflow:
+**FRM Workflow:**
 
 |Step 1 | Step 2 | Step 3 | Step 4|
 | -----|-----|------|-----|
