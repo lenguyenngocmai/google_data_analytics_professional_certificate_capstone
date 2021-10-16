@@ -1,6 +1,6 @@
 # Final Case Study in Google Data Analytics Professional Certificate
 
-**Thanks for visiting**[My 1st Data Project](https://github.com/lenguyenngocmai/1st_project_101221)
+**Thanks for visiting** [My 1st Data Project](https://github.com/lenguyenngocmai/1st_project_101221)
 
 This project is my case study for my final course in [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera. 
 
