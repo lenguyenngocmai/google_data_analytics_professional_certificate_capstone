@@ -48,7 +48,19 @@ The Data I use in this project comes from  Kaggle. [E-Commerce Data](https://www
 2. Frequency: the count of transactions
 3. Monetary: the total revenue from each customer in the selected time frame
 
-Benefits: The RFM is based on the marketing axiom that **80% of your business comes from 20% of your customer**. It helps identify customers who are more likely to respond to a promo by segmenting them into various categories.
+Benefits: 
+
+The RFM is based on the marketing axiom that **80% of your business comes from 20% of your customer**. It helps identify customers who are more likely to respond to a promo by segmenting them into various categories.
+
+Here are some benefits of applying RFM to your marketing:
+
+- Better email marketing and re-targeting
+- Higher customer lifetime value
+- Effective new product launches
+- Increased loyalty and engagement
+- Reduced customer churn
+- Minimized marketing costs
+- Better business understanding and overall - customer discovery
 
 **FRM Workflow:**
 
