@@ -1,7 +1,7 @@
-CREATE ROLE project_su
+CREATE ROLE mkt_su
     SUPERUSER
     NOCREATEDB
     CREATEROLE
     NOINHERIT
     LOGIN
-    PASSWORD 'project_su'
+    PASSWORD 'mkt_su'

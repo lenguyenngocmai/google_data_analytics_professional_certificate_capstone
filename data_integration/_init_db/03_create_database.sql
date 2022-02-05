@@ -1,7 +1,7 @@
-CREATE DATABASE project_db
-    OWNER = project_su
+CREATE DATABASE mkt_db
+    OWNER = mkt_su
 ;
 
 
 
-REVOKE ALL ON DATABASE project_db FROM PUBLIC ;
+REVOKE ALL ON DATABASE mkt_db FROM PUBLIC ;
