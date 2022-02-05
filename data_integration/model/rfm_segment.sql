@@ -81,3 +81,6 @@ SELECT *
         ELSE 'Low Value'
     END AS rfm_group
 FROM rfm_table;
+
+CREATE INDEX id
+ON rfm_segment (customer_id);

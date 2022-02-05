@@ -1,7 +1,0 @@
-CREATE ROLE mkt_su
-    SUPERUSER
-    NOCREATEDB
-    CREATEROLE
-    NOINHERIT
-    LOGIN
-    PASSWORD 'mkt_su'
