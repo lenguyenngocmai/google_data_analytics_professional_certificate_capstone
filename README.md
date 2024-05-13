@@ -100,7 +100,7 @@ Please review [my analysis step using SQL](https://github.com/lenguyenngocmai/1s
 
 **RFM dashboard**
 
-Please review [my visualization](https://public.tableau.com/authoring/RFMSegmentDashboard/Dashboard1#1)
+Please review [my visualization](https://public.tableau.com/app/profile/mai3710/viz/RFMSegmentationDashboard_17155717628340/RFMDashboard#1)
 
 ## Conclusion 
 
